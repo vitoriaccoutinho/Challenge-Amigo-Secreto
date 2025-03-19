@@ -5,9 +5,13 @@ Esse app é super simples e divertido, perfeito pra organizar e fazer sorteios d
 📋 O que ele faz:
 
   *Adicionar os nomes dos seus amigos na lista;
+  
   *Mostra todos os nomes que foram adicionados na lista de um jeito bem organizado;
+  
   *Faz um sorteio aleatório e escolhe um dos nomes da lista;
+  
   *Valida os nomes e garante que só nomes válidos sejam adicionados;
+  
   *Esvazia a lista, ou seja, limpa os nomes da lista depois de um sorteio.
 
 
