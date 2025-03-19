@@ -17,6 +17,7 @@ Esse app é super simples e divertido, perfeito pra organizar e fazer sorteios d
 
 
 
+
 🛠️ O que foi usado:
 
 HTML5: Estrutura do app.
