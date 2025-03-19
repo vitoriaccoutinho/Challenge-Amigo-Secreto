@@ -15,6 +15,8 @@ Esse app é super simples e divertido, perfeito pra organizar e fazer sorteios d
   *Esvazia a lista, ou seja, limpa os nomes da lista depois de um sorteio.
 
 
+
+
 🛠️ O que foi usado:
 
 HTML5: Estrutura do app.
